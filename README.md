@@ -24,7 +24,7 @@ An interactive **sorting algorithm visualizer** built with **Java Swing**, desig
 ## 📷 Screenshots
 
 ![alt text](<Screenshot 2025-04-12 102802.png>)
-<video controls src="Recording 2025-04-12 102957.mp4" title="Title"></video>
+<video controls src="Recording 2025-04-12 102957 (1).mp4" title="Title"></video>
 ---
 
 🧠 Algorithms Implemented
