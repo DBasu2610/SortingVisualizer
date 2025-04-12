@@ -35,3 +35,26 @@ Insertion Sort	✅ Yes	O(n²)	           O(1)
 Merge Sort	  ✅ Yes	    O(nlog n)	       O(n)
 Quick Sort	  ❌ No	    O(nlog n)	       O(log n)
 
+
+
+🛠 Tech Stack
+Java
+
+Java Swing for GUI
+
+Multithreading for animation delays and interaction
+
+
+💡 Learning Highlights
+Mastered Object-Oriented Programming by implementing a strategy interface for sorting algorithms
+
+Learned GUI development with Java Swing, event handling, and graphics rendering
+
+Gained experience with real-time UI animation and thread-safe updates
+
+Built a visually intuitive tool to understand algorithm behavior and performance
+
+
+
+
+
